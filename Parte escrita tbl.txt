@@ -1,0 +1,17 @@
+Os text: item 1, item 2 e item 3
+
+Os itens de texto dentro da coluna 
+
+faz com que um item fique em uma extremidade e o outro fique na extremidade oposta
+
+espaçamento ao redor de cada item
+
+
+EdgeInsets.all() = espaçamento de mesmo valor em todos os lados
+
+EdgeInsets.symmetric() = valores iguais para pares de lados 
+
+EdgeInsets.only() = espaçamentp em um so lado
+
+
+É melhor evitar pois não deixa o site resposivo, fazendo com que fique bugado com diferentes acessos. por exemplo no celular
